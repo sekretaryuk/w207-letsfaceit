@@ -6,7 +6,7 @@
 
 - The 'data' folder contains the raw testing and training data downloaded from the Kaggle site.
 - The 'other_work_files' folder contains additional work files that we used during our analysis between team members. This is raw, uncleaned, and sometimes uncommented code.
-- The repo root directory contains the Baseline Model (Baseline_Model.ipynb) and the Final Model (Final_Model.ipynb).
+- The repo root directory contains the Baseline Model (Baseline_Model.ipynb) and the **Final Model** (Final_Model.ipynb).
 - The repo root directory also contains the Initial Presentation and the Final Presentation.
 
 ## Project Details
